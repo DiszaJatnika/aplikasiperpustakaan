@@ -1,0 +1,23 @@
+/* PRODUCT PAGE */
+.productWrapper{
+	width:100%;
+	height: 100vh;
+	overflow: hidden;
+  }
+  .productSlide{
+	width: 100%;
+	height: 100vh;
+	position: relative;
+	overflow: hidden;
+  }
+  .productSlide img{
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+  }
+  /* END PRODUCT PAGE */
